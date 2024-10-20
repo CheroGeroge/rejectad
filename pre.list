@@ -1,5 +1,5 @@
 AND,((DOMAIN-SUFFIX,zijieapi.com), (DOMAIN-KEYWORD,ad)),REJECT,pre-matching
 DOMAIN,is.snssdk.com,REJECT,pre-matching
-DOMAIN-SUFFIX,jdqd.jd.com,pre-matching
-DOMAIN-SUFFIX,blackhole.m.jd.com,pre-matching
+DOMAIN-SUFFIX,jdqd.jd.com,REJECT,pre-matching
+DOMAIN-SUFFIX,blackhole.m.jd.com,REJECT,pre-matching
 DOMAIN-KEYWORD,snssdk,REJECT,pre-matching
